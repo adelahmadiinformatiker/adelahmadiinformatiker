@@ -32,3 +32,5 @@ A modernized Spring Boot application for link sharing and voting — live at [ad
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-ahmadi-informatiker/)
+[![Xing](https://img.shields.io/badge/xing-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.xing.com/profile/Adel_Ahmadiinformatiker)
+
