@@ -10,7 +10,7 @@
 
 ## 🚀 Projects
 
-🔹 [Springit – Java Web App]((https://github.com/adelahmadiinformatiker/Springit))  
+🔹 [Springit – Java Web App](https://github.com/adelahmadiinformatiker/Springit)  
 A modernized Spring Boot application for link sharing and voting — live at [adelahmadi.com](http://www.adelahmadi.com)
 
 🔹 Coming Soon:  
