@@ -13,8 +13,10 @@
 🔹 [Springit – Java Web App](https://github.com/adelahmadiinformatiker/Springit)  
 A modernized Spring Boot application for link sharing and voting — live at [adelahmadi.com](http://www.adelahmadi.com)
 
+🔹 [Full Headless Shopware Store](https://github.com/adelahmadiinformatiker/Full-Headless-Shopware-Store)  
+A fully decoupled e-commerce platform built with Shopware 6, custom backend, and a modular React frontend — in active development.
+
 🔹 Coming Soon:  
-- Full Headless Shopware Store  
 - ImmoInsight – Real Estate Market Analysis with ML + React
 
 ---
