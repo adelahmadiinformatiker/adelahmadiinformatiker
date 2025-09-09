@@ -15,7 +15,7 @@ A data-driven platform for analyzing the real estate market using **Machine Lear
 *(New project in active development)*
 
 🔹 [Springit – Java Web App](https://github.com/adelahmadiinformatiker/Springit)  
-A modernized Spring Boot application for link sharing and voting — live at [adelahmadi.com](http://www.adelahmadi.com)
+A modernized **Spring Boot** web application for link sharing, discussion, and voting — inspired by **Reddit** and deployed live at [adelahmadi.com](http://www.adelahmadi.com)
 
 🔹 [Full Headless Shopware Store](https://github.com/adelahmadiinformatiker/Full-Headless-Shopware-Store)  
 A fully decoupled e-commerce platform built with Shopware 6, custom backend, and a modular React frontend — in active development.
